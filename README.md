@@ -2,6 +2,6 @@
 
 ## Future Improvements
 
-- [Password Length Controller]
-- [Modification Options]
-- [Responsive Website]
+- Password Length Controller
+- Modification Options
+- Responsive Website
